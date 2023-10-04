@@ -19,7 +19,7 @@ I enjoy alot to solve complex problems and bugs . Things that are impossible acc
 Also I can coding my API with Node.js , Express.js , and use database such as MySQL.
 
 <h3>Learning</h3>
-Now,I learning react js to be pro in front-end
+Now,I`m learning react js to be pro in front-end
 
 <h1>Hard Skills</h1>
 <h3>Front-End</h3>
