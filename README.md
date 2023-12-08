@@ -59,19 +59,36 @@ Now,I`m learning react js to be pro in front-end
 </a>
 
 <h3>DataBase</h3>
-<img <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" title="MySql"  style="max-width: 100%;">
+<a href="#">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;">
 </a>
 
+<a href="#">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="max-width: 100%;">
+</a>
+
+
+
 <h3>My learning resourses</h2>
-<a href="https://stackoverflow.com/">
-  <img src="https://camo.githubusercontent.com/fc787598aecf719d83caaa44451ed49617912947ceaefe36b51071cca88b63b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f7374796c653d666f722d7468652d6261646765266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="Stack Overflow" data-canonical-src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;">
+<a href="#">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" style="max-width: 100%;">
 </a>
-<a href="https://developer.mozilla.org/en-US/">
-  <img src="https://camo.githubusercontent.com/aa6ae4ef41d5350eae304c53fe673a6535f03fa2c96c0564a0611c720e550ea6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d444e5f5765625f446f63732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6d646e776562646f6373266c6f676f436f6c6f723d7768697465" alt="MDN Web Docs" data-canonical-src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&amp;logo=mdnwebdocs&amp;logoColor=white" style="max-width: 100%;">
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" style="max-width: 100%;">
 </a>
-<a href="www.google.com">
-  <img src="https://camo.githubusercontent.com/65b085c9bba526deae0d38592e037543c399963774c28aa66a8e02bba9db890f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f6f676c652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465" alt="Google" data-canonical-src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" style="max-width: 100%;">
+<a href="#">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="max-width: 100%;">
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" style="max-width: 100%;">
+</a>
+
 
 <h3>Dev Tools</h3>
 <a href="#">
